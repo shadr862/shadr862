@@ -117,7 +117,7 @@
 * Docker
 * Redis
 * Azure Cloud
-* Kubernetes
+
 
 ---
 
