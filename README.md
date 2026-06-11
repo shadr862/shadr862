@@ -34,7 +34,7 @@
 
 ### Database
 
-`SQL Server` `PostgreSQL` `MySQL`
+`SQL Server` 
 
 ### Architecture & Design
 
