@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm Riaz Mehadi
 
-<!--
-**shadr862/shadr862** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- BSc in Computer Science & Engineering
+- Software Developer
+- Learning .NET MVC and Angular
+- Competitive Programmer (1600+ solved problems)
 
-Here are some ideas to get you started:
+## 💻 Skills
+- C#
+- ASP.NET MVC
+- Angular
+- SQL Server
+- JavaScript
+- Python
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/riaz-mehedi-7584031a3/
+- Email: shadr862@gmail.com
+
+## 🔥 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadr862&show_icons=true)
+
+## 🌱 Currently Learning
+- System Design
+- Microservices
+- Kafka
+- Distributed Systems
