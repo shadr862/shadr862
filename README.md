@@ -48,11 +48,30 @@
 
 ## 🏆 Problem Solving
 
-* 🥇 1700+ Problems Solved
-* 🎯 Top 5% Global on LeetCode:https://leetcode.com/u/user0374Wc/
-* ⚡ 850+ Problems on Codeforces:https://codeforces.com/profile/riaz_123
-* ⭐ 5-Star HackerRank:https://www.hackerrank.com/profile/riaz_mehadi
+* 🥇 1700+ Problems Solved  
+* 🎯 Top 5% Global on LeetCode  
+* ⚡ 850+ Problems on Codeforces  
+* ⭐ 5-Star HackerRank  
 
+---
+
+### 🔗 Profiles
+
+<p align="left">
+
+<a href="https://leetcode.com/u/user0374Wc/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40" />
+</a>
+
+<a href="https://codeforces.com/profile/riaz_123" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" height="40" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/riaz_mehadi" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" />
+</a>
+
+</p>
 ---
 
 ## 🚀 Featured Projects
