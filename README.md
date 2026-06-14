@@ -59,16 +59,16 @@
 
 <p align="left">
 
-<a href="https://leetcode.com/u/user0374Wc/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="40" height="40" />
+<a href="https://leetcode.com/u/user0374Wc/" target="_blank" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="45" height="45" />
 </a>
 
-<a href="https://codeforces.com/profile/riaz_123" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="40" height="40" />
+<a href="https://codeforces.com/profile/riaz_123" target="_blank" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="45" height="45" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/riaz_mehadi" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="40" height="40" />
+<a href="https://www.hackerrank.com/profile/riaz_mehadi" target="_blank" style="margin-right: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="45" height="45" />
 </a>
 
 </p>
