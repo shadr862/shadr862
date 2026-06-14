@@ -46,12 +46,12 @@
 
 ---
 
-## 🏆 Competitive Programming
+## 🏆 Problem Solving
 
 * 🥇 1700+ Problems Solved
-* 🎯 Top 5% Global on LeetCode
-* ⚡ 850+ Problems on Codeforces
-* ⭐ 5-Star HackerRank
+* 🎯 Top 5% Global on LeetCode:https://leetcode.com/u/user0374Wc/
+* ⚡ 850+ Problems on Codeforces:https://codeforces.com/profile/riaz_123
+* ⭐ 5-Star HackerRank:https://www.hackerrank.com/profile/riaz_mehadi
 
 ---
 
